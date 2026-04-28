@@ -1188,11 +1188,13 @@ xkeen -start
 * AdGuard DoH: `https://dns.adguard-dns.com/dns-query`
 * Cisco Umbrella DoH: `https://doh.opendns.com/dns-query`
 
+Для корректной работы рекомендуется отключить транзит запросов и не игнорировать DNS провайдера.
+
 <p align="center">
   <a href="http://192.168.1.1/internet-filter/dns-configuration" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Corvus-Malus/XKeen-docs/raw/main/images/Dark/Keenetic-dns-configuration-Dark.png">
-      <img width="100%" height="100%" src="https://github.com/Corvus-Malus/XKeen-docs/raw/main/images/Light/Keenetic-dns-configuration-Light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Corvus-Malus/XKeen-docs/raw/main/images/Dark/DNS%20dark.png">
+      <img width="100%" height="100%" src="https://github.com/Corvus-Malus/XKeen-docs/raw/main/images/Light/DNS.png">
     </picture>
   </a>
 </p>
